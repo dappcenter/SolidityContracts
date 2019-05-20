@@ -28,8 +28,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0x83bcb9a1"
+      "type": "function"
     }
   ],
   "bytecodeHash": "0x4e8583206460f6a30f37633e7fa01677ac15f759c12aa57c03da97cd258af323"

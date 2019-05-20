@@ -16,8 +16,7 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function",
-      "signature": "0x0e17efa7"
+      "type": "function"
     },
     {
       "constant": false,
@@ -39,8 +38,7 @@
       "outputs": [],
       "payable": true,
       "stateMutability": "payable",
-      "type": "function",
-      "signature": "0x1309502b"
+      "type": "function"
     },
     {
       "constant": true,
@@ -54,8 +52,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0x470d228a"
+      "type": "function"
     },
     {
       "constant": false,
@@ -73,8 +70,7 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function",
-      "signature": "0x4d9b996b"
+      "type": "function"
     },
     {
       "constant": false,
@@ -104,8 +100,7 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function",
-      "signature": "0x6b89f4bf"
+      "type": "function"
     },
     {
       "constant": true,
@@ -119,8 +114,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0x6e4c0d66"
+      "type": "function"
     },
     {
       "constant": false,
@@ -146,8 +140,7 @@
       "outputs": [],
       "payable": false,
       "stateMutability": "nonpayable",
-      "type": "function",
-      "signature": "0x75491cc1"
+      "type": "function"
     },
     {
       "constant": true,
@@ -161,8 +154,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0x7ef091d8"
+      "type": "function"
     },
     {
       "constant": true,
@@ -176,8 +168,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0x91cca3db"
+      "type": "function"
     },
     {
       "constant": false,
@@ -191,8 +182,7 @@
       "outputs": [],
       "payable": true,
       "stateMutability": "payable",
-      "type": "function",
-      "signature": "0x95a2251f"
+      "type": "function"
     },
     {
       "constant": true,
@@ -219,8 +209,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0xceafb18d"
+      "type": "function"
     },
     {
       "constant": false,
@@ -250,8 +239,7 @@
       "outputs": [],
       "payable": true,
       "stateMutability": "payable",
-      "type": "function",
-      "signature": "0xcec339bc"
+      "type": "function"
     },
     {
       "constant": true,
@@ -265,8 +253,7 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function",
-      "signature": "0xe8546771"
+      "type": "function"
     },
     {
       "anonymous": false,
@@ -288,8 +275,7 @@
         }
       ],
       "name": "Redeem",
-      "type": "event",
-      "signature": "0x799edc2df71dc60ec03c29efe8bd1e439d89569bd38cf2ee46fb8e621d1f2d69"
+      "type": "event"
     },
     {
       "anonymous": false,
@@ -306,8 +292,7 @@
         }
       ],
       "name": "Create",
-      "type": "event",
-      "signature": "0x96b5b9b8a7193304150caccf9b80d150675fa3d6af57761d8d8ef1d6f9a1a909"
+      "type": "event"
     },
     {
       "anonymous": false,
@@ -324,8 +309,7 @@
         }
       ],
       "name": "Contribute",
-      "type": "event",
-      "signature": "0xb3bba8a8a2edde94117fce5fc218ff2904ac712cc19e933ea5a877de708f0f1f"
+      "type": "event"
     },
     {
       "anonymous": false,
@@ -352,8 +336,7 @@
         }
       ],
       "name": "SetFees",
-      "type": "event",
-      "signature": "0x747eaccb30a9769474f1620ae0dd833b1ffb89520dcac6833b33df942b7c0c49"
+      "type": "event"
     }
   ],
   "bytecodeHash": "0x2a0b919fe24777435757026c27d68882f271a42937c1b1c2f2195137fdca8cc8"
