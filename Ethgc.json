@@ -1,7 +1,7 @@
 {
-  "3": "0xBa5bcBe4A9273F8d35c97543575e466266e545B8",
-  "4": "0xe2376135740219875ABCF5AD892057Ee8677Cc88",
-  "42": "0xBa5bcBe4A9273F8d35c97543575e466266e545B8",
+  "3": "0xCF11D746d45c5F85f833aB15A3920984d7e9818D",
+  "4": "0x5e278d4b4B90337140D40946bC881D3A1d78100d",
+  "42": "0xCF11D746d45c5F85f833aB15A3920984d7e9818D",
   "4447": "0x345cA3e014Aaf5dcA488057592ee47305D9B3e10",
   "abi": [
     {
@@ -17,7 +17,6 @@
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function",
-      "funcName": "devTransferAccount(address)",
       "signature": "0x0e17efa7"
     },
     {
@@ -41,7 +40,6 @@
       "payable": true,
       "stateMutability": "payable",
       "type": "function",
-      "funcName": "contribute(address[],address[],uint256[])",
       "signature": "0x1309502b"
     },
     {
@@ -57,7 +55,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "gasForErc20()",
       "signature": "0x470d228a"
     },
     {
@@ -77,7 +74,6 @@
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function",
-      "funcName": "cancel(address[],address)",
       "signature": "0x4d9b996b"
     },
     {
@@ -109,7 +105,6 @@
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function",
-      "funcName": "redeemWithSignature(address[],uint8[],bytes32[],bytes32[],address)",
       "signature": "0x6b89f4bf"
     },
     {
@@ -125,7 +120,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "gasForEth()",
       "signature": "0x6e4c0d66"
     },
     {
@@ -153,7 +147,6 @@
       "payable": false,
       "stateMutability": "nonpayable",
       "type": "function",
-      "funcName": "devSetFees(uint256,uint256,uint256,uint256)",
       "signature": "0x75491cc1"
     },
     {
@@ -169,7 +162,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "gasForErc721()",
       "signature": "0x7ef091d8"
     },
     {
@@ -185,7 +177,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "dev()",
       "signature": "0x91cca3db"
     },
     {
@@ -201,7 +192,6 @@
       "payable": true,
       "stateMutability": "payable",
       "type": "function",
-      "funcName": "redeem(address)",
       "signature": "0x95a2251f"
     },
     {
@@ -230,7 +220,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "getCard(address)",
       "signature": "0xceafb18d"
     },
     {
@@ -262,7 +251,6 @@
       "payable": true,
       "stateMutability": "payable",
       "type": "function",
-      "funcName": "create(address[],address[],uint256[],string,string)",
       "signature": "0xcec339bc"
     },
     {
@@ -278,7 +266,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "gasForRedeem()",
       "signature": "0xe8546771"
     },
     {
@@ -302,7 +289,6 @@
       ],
       "name": "Redeem",
       "type": "event",
-      "funcName": "Redeem(address,address,bool)",
       "signature": "0x799edc2df71dc60ec03c29efe8bd1e439d89569bd38cf2ee46fb8e621d1f2d69"
     },
     {
@@ -321,7 +307,6 @@
       ],
       "name": "Create",
       "type": "event",
-      "funcName": "Create(address,address)",
       "signature": "0x96b5b9b8a7193304150caccf9b80d150675fa3d6af57761d8d8ef1d6f9a1a909"
     },
     {
@@ -340,7 +325,6 @@
       ],
       "name": "Contribute",
       "type": "event",
-      "funcName": "Contribute(address,address)",
       "signature": "0xb3bba8a8a2edde94117fce5fc218ff2904ac712cc19e933ea5a877de708f0f1f"
     },
     {
@@ -369,7 +353,6 @@
       ],
       "name": "SetFees",
       "type": "event",
-      "funcName": "SetFees(uint256,uint256,uint256,uint256)",
       "signature": "0x747eaccb30a9769474f1620ae0dd833b1ffb89520dcac6833b33df942b7c0c49"
     }
   ],

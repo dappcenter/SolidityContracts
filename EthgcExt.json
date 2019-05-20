@@ -1,7 +1,7 @@
 {
-  "3": "0x905aE436AcfF10899677a69772F75E0D2a850111",
-  "4": "0x9111b6FB42F2e3c0B898b868637ad0297f0b307d",
-  "42": "0x905aE436AcfF10899677a69772F75E0D2a850111",
+  "3": "0xd9410D965744f306bAe25d0f087D4B99C18dC916",
+  "4": "0x25c5B59D2634691981c6b0cd6C2558A5C2D36680",
+  "42": "0xd9410D965744f306bAe25d0f087D4B99C18dC916",
   "4447": "0xf25186B5081Ff5cE73482AD761DB0eB0d25abfBF",
   "abi": [
     {
@@ -29,7 +29,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "ethgc()",
       "signature": "0x8b0a7e04"
     },
     {
@@ -62,7 +61,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "getFees(address[],address[],uint256[],bool)",
       "signature": "0x3014d7b4"
     },
     {
@@ -95,7 +93,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "getFirstCard(address[])",
       "signature": "0x75103815"
     },
     {
@@ -116,7 +113,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "isNft(address)",
       "signature": "0x2abd771a"
     }
   ],

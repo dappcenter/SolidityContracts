@@ -1,7 +1,7 @@
 {
-  "3": "0xF95c9315a59e1bb6A94059f7a8B5c54e9116Fcf1",
-  "4": "0x57e434D56500B2287dD79c5CB5ed288dB5d54C68",
-  "42": "0xF95c9315a59e1bb6A94059f7a8B5c54e9116Fcf1",
+  "3": "0x06B6f6A31738e5EB0fC4e07f005c00D26AABfA56",
+  "4": "0xee0A4a29d86b366f91e0432b952D7267039bE37e",
+  "42": "0x06B6f6A31738e5EB0fC4e07f005c00D26AABfA56",
   "abi": [
     {
       "constant": true,
@@ -29,7 +29,6 @@
       "payable": false,
       "stateMutability": "view",
       "type": "function",
-      "funcName": "balanceAndAllowanceOfAll(address,address,address[])",
       "signature": "0x83bcb9a1"
     }
   ],
