@@ -1,7 +1,7 @@
 {
-  "3": "0xa3eFd671aC7e3ae7061fedF761DcAe8522bF2dCb",
-  "4": "0xAEa9A3E32ccd7AAB4A73c4c6f0B055f2eE45F309",
-  "42": "0xa3eFd671aC7e3ae7061fedF761DcAe8522bF2dCb",
+  "3": "0x4480752536ed00239F6c75A8A3860A8f9442c462",
+  "4": "0xaa9A2924B43a1632D4e986BCdD0dfA36a205a72c",
+  "42": "0x4480752536ed00239F6c75A8A3860A8f9442c462",
   "abi": [
     {
       "constant": true,
@@ -28,8 +28,9 @@
       ],
       "payable": false,
       "stateMutability": "view",
-      "type": "function"
+      "type": "function",
+      "signature": "0x83bcb9a1"
     }
   ],
-  "bytecodeHash": "0x4e8583206460f6a30f37633e7fa01677ac15f759c12aa57c03da97cd258af323"
+  "bytecodeHash": "0x621810cfbe0d3be37c548bec64d94093b6ed24417b08223be1f85a2ff420f031"
 }
