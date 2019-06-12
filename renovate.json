@@ -5,6 +5,6 @@
     ":prConcurrentLimitNone",
     ":pinVersions"
   ],
-  "timezone": "America/Los_Angeles",
+  "timezone": "America/Los_Angeles"
   "schedule": ["at any time"]
 }
